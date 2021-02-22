@@ -1,3 +1,3 @@
-# lending-club-default-model
+Loan Default Prediction Model - Lending Club
 
-The purpose of this model is to predict, with a significantly higher rate of accuracy than within the data provided, the borrowers who will default based on the features in their application
+This model is built to predict the borrowers who will default on their microfinancing loan based on features within their application. Loan data is from Lending club, a peer to peer fintech platform that connects those looking to provide capital as an investment, and those who need short term liquidity.  
